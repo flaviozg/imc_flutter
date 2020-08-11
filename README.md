@@ -1,6 +1,12 @@
-# imc
+# Calc IMC (Indice de Massa Corporal)
 
-A new Flutter project.
+- Flutter
+- Dart
+- VS Code
+
+## Aditional Packages
+- google_fonts: ^1.1.0
+- intl: ^0.16.1
 
 ## Getting Started
 
